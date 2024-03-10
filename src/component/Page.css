@@ -1,0 +1,33 @@
+.h3head{
+     font-size: 20px;
+     color: rgb(8, 9, 8);
+}
+
+.inputype{
+     background-color: rgb(189, 246, 146);
+     border: 1px solid black;
+     border-radius: 5px;
+     width: 80px;
+   
+
+
+}
+.paragraph{
+     font-size: larger;
+     font-weight: bolder;
+     color: black;
+
+}
+
+ .btn1{
+    background-color: aquamarine;
+    padding: 5px 5px;
+    border-radius: 5px;
+ }
+
+ form{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 10px;
+ }
